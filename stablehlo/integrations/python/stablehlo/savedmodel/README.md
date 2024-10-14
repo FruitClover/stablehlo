@@ -75,7 +75,7 @@ The above API depends on
 
 ## Testing
 
-The repository provides [stablehlo_to_tf_saved_model_test.py](https://github.com/openxla/stablehlo/blob/main/stablehlo/integrations/python/tests/[stablehlo_to_tf_saved_model_test.py)
+The repository provides [stablehlo_to_tf_saved_model_test.py](https://github.com/openxla/stablehlo/blob/main/stablehlo/integrations/python/tests/stablehlo_to_tf_saved_model_test.py)
 to test the API and here is how to run it.
 
 ```sh
